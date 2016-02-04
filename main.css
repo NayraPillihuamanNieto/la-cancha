@@ -1,0 +1,54 @@
+.cesped{
+       height: 400px;
+       width: 800px;
+       background-color:#8CB27C;
+}
+.margen{
+	border: 2px solid white;
+	height:360px;
+	width: 750px;
+	margin:20px;
+	position: absolute;
+}
+.cuadrado{
+	border: 2px solid white;
+	height:120px;
+	width: 100px;
+	position:relative;
+	right:-20px;
+	bottom: 255px;
+
+}
+.cuadrado2{
+	border: 2px solid white;
+	height:120px;
+	width: 100px;
+	position:relative;
+	left:670px;
+	bottom:370px;
+
+}
+.circulo{
+	border: 2px solid white;
+	height:120px;
+	width: 130px;
+	position:relative;
+	bottom:500px;
+	left: 320px;
+	border-radius: 100%;
+}
+.bola1{
+position:relative;
+	left:110px;
+	bottom: 620px;
+}
+.bola2{
+position:relative;
+	left:400px;
+	bottom: 690px;
+}
+.bola3{
+position:relative;
+	left:640px;
+	bottom: 580px;
+}
